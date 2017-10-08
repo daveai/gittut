@@ -7,3 +7,5 @@
 #I am adding some text in direct master branch to see the merge things.
 
 #Again adding text in master branch
+
+#changing in branch one but pushing in master branch
